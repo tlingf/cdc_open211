@@ -1,4 +1,7 @@
-Merging requires data from:
-2012 CPS: http://www.civicdatachallenge.org/data/civic-health-data
-2012 BLS Employment by Occupation: http://www.bls.gov/oes/
+Merging requires data from:  
+
+2012 CPS: http://www.civicdatachallenge.org/data/civic-health-data  
+
+2012 BLS Employment by Occupation: http://www.bls.gov/oes/  
+
 2012 Census: http://www.census.gov/popest/data/metro/totals/2012/tables/CBSA-EST2012-01.csv
